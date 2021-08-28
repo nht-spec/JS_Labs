@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1629295793351" clover="3.2.0">
+  <project timestamp="1629295793352" name="All files">
+    <metrics statements="455" coveredstatements="455" conditionals="406" coveredconditionals="405" methods="90" coveredmethods="90" elements="951" coveredelements="950" complexity="0" loc="455" ncloc="455" packages="7" files="44" classes="44"/>
+    <package name="js_labs">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="main.js" path="D:\js_labs\main.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="2" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="js_labs.practices">
+      <metrics statements="97" coveredstatements="97" conditionals="82" coveredconditionals="82" methods="27" coveredmethods="27"/>
+      <file name="01-calc-s.js" path="D:\js_labs\practices\01-calc-s.js">
+        <metrics statements="9" coveredstatements="9" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+        <line num="3" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="6" count="4" type="stmt"/>
+        <line num="7" count="4" type="stmt"/>
+        <line num="8" count="16" type="stmt"/>
+        <line num="10" count="4" type="stmt"/>
+        <line num="14" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="17" count="4" type="stmt"/>
+      </file>
+      <file name="array-check-07.js" path="D:\js_labs\practices\array-check-07.js">
+        <metrics statements="22" coveredstatements="22" conditionals="26" coveredconditionals="26" methods="7" coveredmethods="7"/>
+        <line num="2" count="17" type="cond" truecount="2" falsecount="0"/>
+        <line num="5" count="3" type="cond" truecount="4" falsecount="0"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="3" type="stmt"/>
+        <line num="10" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="16" count="3" type="cond" truecount="4" falsecount="0"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="21" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="23" count="2" type="stmt"/>
+        <line num="27" count="3" type="cond" truecount="4" falsecount="0"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="30" count="2" type="stmt"/>
+        <line num="35" count="3" type="cond" truecount="4" falsecount="0"/>
+        <line num="36" count="1" type="stmt"/>
+        <line num="38" count="2" type="stmt"/>
+        <line num="42" count="3" type="cond" truecount="4" falsecount="0"/>
+        <line num="43" count="1" type="stmt"/>
+        <line num="45" count="2" type="stmt"/>
+      </file>
+      <file name="array-count-04.js" path="D:\js_labs\practices\array-count-04.js">
+        <metrics statements="14" coveredstatements="14" conditionals="10" coveredconditionals="10" methods="2" coveredmethods="2"/>
+        <line num="2" count="11" type="cond" truecount="4" falsecount="0"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="5" count="6" type="stmt"/>
+        <line num="6" count="6" type="stmt"/>
+        <line num="7" count="22" type="stmt"/>
+        <line num="8" count="22" type="cond" truecount="2" falsecount="0"/>
+        <line num="10" count="6" type="stmt"/>
+        <line num="14" count="11" type="cond" truecount="4" falsecount="0"/>
+        <line num="15" count="5" type="stmt"/>
+        <line num="17" count="6" type="stmt"/>
+        <line num="18" count="6" type="stmt"/>
+        <line num="19" count="22" type="stmt"/>
+        <line num="20" count="22" type="stmt"/>
+        <line num="22" count="6" type="stmt"/>
+      </file>
+      <file name="array-filter-06.js" path="D:\js_labs\practices\array-filter-06.js">
+        <metrics statements="22" coveredstatements="22" conditionals="18" coveredconditionals="18" methods="6" coveredmethods="6"/>
+        <line num="2" count="7" type="cond" truecount="4" falsecount="0"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="9" type="stmt"/>
+        <line num="11" count="27" type="cond" truecount="4" falsecount="0"/>
+        <line num="12" count="3" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="20" count="18" type="stmt"/>
+        <line num="21" count="18" type="stmt"/>
+        <line num="22" count="18" type="stmt"/>
+        <line num="25" count="7" type="cond" truecount="4" falsecount="0"/>
+        <line num="26" count="5" type="stmt"/>
+        <line num="28" count="2" type="stmt"/>
+        <line num="29" count="2" type="stmt"/>
+        <line num="30" count="9" type="stmt"/>
+        <line num="31" count="9" type="stmt"/>
+        <line num="32" count="9" type="cond" truecount="2" falsecount="0"/>
+        <line num="34" count="2" type="stmt"/>
+        <line num="39" count="7" type="cond" truecount="4" falsecount="0"/>
+        <line num="40" count="5" type="stmt"/>
+        <line num="42" count="9" type="stmt"/>
+      </file>
+      <file name="array-find-09.js" path="D:\js_labs\practices\array-find-09.js">
+        <metrics statements="9" coveredstatements="9" conditionals="10" coveredconditionals="10" methods="3" coveredmethods="3"/>
+        <line num="2" count="9" type="cond" truecount="4" falsecount="0"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="5" count="4" type="stmt"/>
+        <line num="6" count="7" type="stmt"/>
+        <line num="7" count="7" type="cond" truecount="2" falsecount="0"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="13" count="9" type="cond" truecount="4" falsecount="0"/>
+        <line num="14" count="5" type="stmt"/>
+        <line num="16" count="7" type="stmt"/>
+      </file>
+      <file name="number-01.js" path="D:\js_labs\practices\number-01.js">
+        <metrics statements="8" coveredstatements="8" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
+        <line num="2" count="27" type="cond" truecount="4" falsecount="0"/>
+        <line num="3" count="10" type="stmt"/>
+        <line num="5" count="17" type="stmt"/>
+        <line num="6" count="17" type="stmt"/>
+        <line num="7" count="29" type="cond" truecount="2" falsecount="0"/>
+        <line num="8" count="11" type="stmt"/>
+        <line num="11" count="6" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+      </file>
+      <file name="string-02.js" path="D:\js_labs\practices\string-02.js">
+        <metrics statements="13" coveredstatements="13" conditionals="8" coveredconditionals="8" methods="6" coveredmethods="6"/>
+        <line num="2" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="20" type="stmt"/>
+        <line num="7" count="10" type="cond" truecount="2" falsecount="0"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="10" count="8" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="17" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="20" count="20" type="stmt"/>
+        <line num="22" count="10" type="cond" truecount="2" falsecount="0"/>
+        <line num="23" count="10" type="stmt"/>
+      </file>
+    </package>
+    <package name="js_labs.practices-pdf.ArrayCheck_practices">
+      <metrics statements="121" coveredstatements="121" conditionals="112" coveredconditionals="112" methods="23" coveredmethods="23"/>
+      <file name="array-check-01-HasEvenNumberGreaterThanN.js" path="D:\js_labs\practices-pdf\ArrayCheck_practices\array-check-01-HasEvenNumberGreaterThanN.js">
+        <metrics statements="20" coveredstatements="20" conditionals="22" coveredconditionals="22" methods="5" coveredmethods="5"/>
+        <line num="2" count="16" type="cond" truecount="5" falsecount="0"/>
+        <line num="3" count="8" type="stmt"/>
+        <line num="5" count="8" type="stmt"/>
+        <line num="6" count="8" type="stmt"/>
+        <line num="8" count="30" type="cond" truecount="4" falsecount="0"/>
+        <line num="9" count="4" type="stmt"/>
+        <line num="13" count="4" type="stmt"/>
+        <line num="15" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="16" count="4" type="stmt"/>
+        <line num="18" count="4" type="stmt"/>
+        <line num="21" count="16" type="cond" truecount="5" falsecount="0"/>
+        <line num="22" count="8" type="stmt"/>
+        <line num="24" count="8" type="stmt"/>
+        <line num="25" count="8" type="stmt"/>
+        <line num="26" count="30" type="stmt"/>
+        <line num="27" count="30" type="cond" truecount="4" falsecount="0"/>
+        <line num="28" count="4" type="stmt"/>
+        <line num="31" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="32" count="4" type="stmt"/>
+        <line num="34" count="4" type="stmt"/>
+      </file>
+      <file name="array-check-02-HasOddNumberDivisibleBy3.js" path="D:\js_labs\practices-pdf\ArrayCheck_practices\array-check-02-HasOddNumberDivisibleBy3.js">
+        <metrics statements="13" coveredstatements="13" conditionals="12" coveredconditionals="12" methods="2" coveredmethods="2"/>
+        <line num="2" count="15" type="cond" truecount="4" falsecount="0"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="5" count="11" type="stmt"/>
+        <line num="6" count="11" type="stmt"/>
+        <line num="7" count="11" type="stmt"/>
+        <line num="8" count="40" type="cond" truecount="2" falsecount="0"/>
+        <line num="9" count="14" type="stmt"/>
+        <line num="11" count="40" type="cond" truecount="2" falsecount="0"/>
+        <line num="12" count="14" type="stmt"/>
+        <line num="15" count="11" type="cond" truecount="4" falsecount="0"/>
+        <line num="16" count="3" type="stmt"/>
+        <line num="18" count="8" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+      </file>
+      <file name="array-check-03-HasEasyFrontend.js" path="D:\js_labs\practices-pdf\ArrayCheck_practices\array-check-03-HasEasyFrontend.js">
+        <metrics statements="7" coveredstatements="7" conditionals="9" coveredconditionals="9" methods="1" coveredmethods="1"/>
+        <line num="2" count="13" type="cond" truecount="4" falsecount="0"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="5" count="9" type="stmt"/>
+        <line num="6" count="9" type="cond" truecount="2" falsecount="0"/>
+        <line num="10" count="5" type="stmt"/>
+        <line num="12" count="4" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+      </file>
+      <file name="array-check-04-HasTruthy.js" path="D:\js_labs\practices-pdf\ArrayCheck_practices\array-check-04-HasTruthy.js">
+        <metrics statements="7" coveredstatements="7" conditionals="6" coveredconditionals="6" methods="2" coveredmethods="2"/>
+        <line num="2" count="13" type="cond" truecount="4" falsecount="0"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="5" count="9" type="stmt"/>
+        <line num="6" count="9" type="stmt"/>
+        <line num="7" count="20" type="cond" truecount="2" falsecount="0"/>
+        <line num="8" count="6" type="stmt"/>
+        <line num="11" count="9" type="stmt"/>
+      </file>
+      <file name="array-check-05-HasFalsy.js" path="D:\js_labs\practices-pdf\ArrayCheck_practices\array-check-05-HasFalsy.js">
+        <metrics statements="7" coveredstatements="7" conditionals="6" coveredconditionals="6" methods="2" coveredmethods="2"/>
+        <line num="2" count="12" type="cond" truecount="4" falsecount="0"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="5" count="8" type="stmt"/>
+        <line num="6" count="8" type="stmt"/>
+        <line num="7" count="19" type="cond" truecount="2" falsecount="0"/>
+        <line num="8" count="4" type="stmt"/>
+        <line num="11" count="8" type="stmt"/>
+      </file>
+      <file name="array-check-06-HasStudent.js" path="D:\js_labs\practices-pdf\ArrayCheck_practices\array-check-06-HasStudent.js">
+        <metrics statements="7" coveredstatements="7" conditionals="8" coveredconditionals="8" methods="2" coveredmethods="2"/>
+        <line num="2" count="11" type="cond" truecount="2" falsecount="0"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="10" count="6" type="stmt"/>
+        <line num="11" count="6" type="stmt"/>
+        <line num="12" count="14" type="cond" truecount="2" falsecount="0"/>
+        <line num="13" count="3" type="stmt"/>
+        <line num="16" count="6" type="stmt"/>
+      </file>
+      <file name="array-check-07-HasAlice.js" path="D:\js_labs\practices-pdf\ArrayCheck_practices\array-check-07-HasAlice.js">
+        <metrics statements="8" coveredstatements="8" conditionals="8" coveredconditionals="8" methods="2" coveredmethods="2"/>
+        <line num="2" count="6" type="cond" truecount="4" falsecount="0"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="6" type="stmt"/>
+        <line num="8" count="6" type="cond" truecount="4" falsecount="0"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+      </file>
+      <file name="array-check-08-HasFreeShip.js" path="D:\js_labs\practices-pdf\ArrayCheck_practices\array-check-08-HasFreeShip.js">
+        <metrics statements="13" coveredstatements="13" conditionals="14" coveredconditionals="14" methods="2" coveredmethods="2"/>
+        <line num="2" count="9" type="cond" truecount="2" falsecount="0"/>
+        <line num="8" count="6" type="stmt"/>
+        <line num="10" count="3" type="stmt"/>
+        <line num="11" count="3" type="stmt"/>
+        <line num="12" count="3" type="stmt"/>
+        <line num="13" count="6" type="stmt"/>
+        <line num="14" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="17" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="18" count="3" type="stmt"/>
+        <line num="21" count="3" type="cond" truecount="4" falsecount="0"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+      </file>
+      <file name="array-check-09-IsIncreasingNumberList.js" path="D:\js_labs\practices-pdf\ArrayCheck_practices\array-check-09-IsIncreasingNumberList.js">
+        <metrics statements="7" coveredstatements="7" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
+        <line num="2" count="16" type="cond" truecount="4" falsecount="0"/>
+        <line num="3" count="8" type="stmt"/>
+        <line num="5" count="8" type="stmt"/>
+        <line num="6" count="8" type="stmt"/>
+        <line num="7" count="20" type="cond" truecount="2" falsecount="0"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="11" count="8" type="stmt"/>
+      </file>
+      <file name="array-check-10-IsIncreasingNumberList.js" path="D:\js_labs\practices-pdf\ArrayCheck_practices\array-check-10-IsIncreasingNumberList.js">
+        <metrics statements="7" coveredstatements="7" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
+        <line num="2" count="16" type="cond" truecount="4" falsecount="0"/>
+        <line num="3" count="8" type="stmt"/>
+        <line num="5" count="8" type="stmt"/>
+        <line num="6" count="8" type="stmt"/>
+        <line num="7" count="20" type="cond" truecount="2" falsecount="0"/>
+        <line num="8" count="8" type="stmt"/>
+        <line num="11" count="8" type="stmt"/>
+      </file>
+      <file name="array-check-11-IsSymmetricList.js" path="D:\js_labs\practices-pdf\ArrayCheck_practices\array-check-11-IsSymmetricList.js">
+        <metrics statements="11" coveredstatements="11" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
+        <line num="2" count="12" type="cond" truecount="4" falsecount="0"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="5" count="8" type="stmt"/>
+        <line num="6" count="8" type="stmt"/>
+        <line num="7" count="8" type="stmt"/>
+        <line num="8" count="8" type="stmt"/>
+        <line num="9" count="12" type="stmt"/>
+        <line num="10" count="12" type="stmt"/>
+        <line num="12" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="13" count="4" type="stmt"/>
+        <line num="15" count="8" type="stmt"/>
+      </file>
+      <file name="array-check-12-HasFibonaciNumber.js" path="D:\js_labs\practices-pdf\ArrayCheck_practices\array-check-12-HasFibonaciNumber.js">
+        <metrics statements="14" coveredstatements="14" conditionals="9" coveredconditionals="9" methods="2" coveredmethods="2"/>
+        <line num="2" count="14" type="cond" truecount="5" falsecount="0"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="5" count="9" type="stmt"/>
+        <line num="6" count="9" type="stmt"/>
+        <line num="7" count="9" type="stmt"/>
+        <line num="8" count="9" type="stmt"/>
+        <line num="9" count="9" type="stmt"/>
+        <line num="10" count="117" type="cond" truecount="2" falsecount="0"/>
+        <line num="11" count="90" type="stmt"/>
+        <line num="12" count="90" type="stmt"/>
+        <line num="15" count="9" type="stmt"/>
+        <line num="16" count="108" type="cond" truecount="2" falsecount="0"/>
+        <line num="17" count="11" type="stmt"/>
+        <line num="20" count="9" type="stmt"/>
+      </file>
+    </package>
+    <package name="js_labs.practices-pdf.ArrayFind_practices">
+      <metrics statements="83" coveredstatements="83" conditionals="78" coveredconditionals="78" methods="13" coveredmethods="13"/>
+      <file name="array-find-01-FindMinPositive.js" path="D:\js_labs\practices-pdf\ArrayFind_practices\array-find-01-FindMinPositive.js">
+        <metrics statements="13" coveredstatements="13" conditionals="12" coveredconditionals="12" methods="3" coveredmethods="3"/>
+        <line num="2" count="12" type="cond" truecount="4" falsecount="0"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="5" count="8" type="stmt"/>
+        <line num="6" count="8" type="stmt"/>
+        <line num="7" count="8" type="stmt"/>
+        <line num="8" count="24" type="cond" truecount="4" falsecount="0"/>
+        <line num="9" count="12" type="stmt"/>
+        <line num="11" count="24" type="cond" truecount="4" falsecount="0"/>
+        <line num="12" count="12" type="stmt"/>
+        <line num="15" count="8" type="stmt"/>
+        <line num="16" count="11" type="stmt"/>
+        <line num="18" count="8" type="stmt"/>
+        <line num="19" count="8" type="stmt"/>
+      </file>
+      <file name="array-find-02-FindLongestWord.js" path="D:\js_labs\practices-pdf\ArrayFind_practices\array-find-02-FindLongestWord.js">
+        <metrics statements="17" coveredstatements="17" conditionals="15" coveredconditionals="15" methods="1" coveredmethods="1"/>
+        <line num="2" count="11" type="cond" truecount="4" falsecount="0"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="5" count="6" type="stmt"/>
+        <line num="6" count="6" type="stmt"/>
+        <line num="7" count="6" type="stmt"/>
+        <line num="8" count="16" type="stmt"/>
+        <line num="9" count="16" type="stmt"/>
+        <line num="10" count="16" type="cond" truecount="2" falsecount="0"/>
+        <line num="11" count="4" type="stmt"/>
+        <line num="13" count="16" type="cond" truecount="5" falsecount="0"/>
+        <line num="14" count="5" type="stmt"/>
+        <line num="17" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="18" count="3" type="stmt"/>
+        <line num="20" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="21" count="3" type="stmt"/>
+        <line num="22" count="3" type="stmt"/>
+        <line num="24" count="6" type="stmt"/>
+      </file>
+      <file name="array-find-03-FindFirstPositiveEven.js" path="D:\js_labs\practices-pdf\ArrayFind_practices\array-find-03-FindFirstPositiveEven.js">
+        <metrics statements="13" coveredstatements="13" conditionals="14" coveredconditionals="14" methods="1" coveredmethods="1"/>
+        <line num="2" count="11" type="cond" truecount="4" falsecount="0"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="5" count="7" type="stmt"/>
+        <line num="6" count="7" type="stmt"/>
+        <line num="7" count="7" type="stmt"/>
+        <line num="8" count="21" type="cond" truecount="4" falsecount="0"/>
+        <line num="9" count="4" type="stmt"/>
+        <line num="11" count="21" type="cond" truecount="4" falsecount="0"/>
+        <line num="12" count="4" type="stmt"/>
+        <line num="15" count="7" type="cond" truecount="2" falsecount="0"/>
+        <line num="16" count="4" type="stmt"/>
+        <line num="18" count="3" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+      </file>
+      <file name="array-find-04-FindLastNegativeOdd.js" path="D:\js_labs\practices-pdf\ArrayFind_practices\array-find-04-FindLastNegativeOdd.js">
+        <metrics statements="12" coveredstatements="12" conditionals="10" coveredconditionals="10" methods="2" coveredmethods="2"/>
+        <line num="2" count="10" type="cond" truecount="4" falsecount="0"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="5" count="6" type="stmt"/>
+        <line num="6" count="6" type="stmt"/>
+        <line num="7" count="6" type="stmt"/>
+        <line num="8" count="18" type="cond" truecount="2" falsecount="0"/>
+        <line num="9" count="11" type="stmt"/>
+        <line num="11" count="18" type="cond" truecount="2" falsecount="0"/>
+        <line num="12" count="5" type="stmt"/>
+        <line num="15" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="16" count="3" type="stmt"/>
+        <line num="18" count="3" type="stmt"/>
+      </file>
+      <file name="array-find-05-FindSecondLargestNumber.js" path="D:\js_labs\practices-pdf\ArrayFind_practices\array-find-05-FindSecondLargestNumber.js">
+        <metrics statements="4" coveredstatements="4" conditionals="5" coveredconditionals="5" methods="1" coveredmethods="1"/>
+        <line num="2" count="12" type="cond" truecount="5" falsecount="0"/>
+        <line num="3" count="8" type="stmt"/>
+        <line num="5" count="4" type="stmt"/>
+        <line num="6" count="4" type="stmt"/>
+      </file>
+      <file name="array-find-06-FindLastPerfectSquare.js" path="D:\js_labs\practices-pdf\ArrayFind_practices\array-find-06-FindLastPerfectSquare.js">
+        <metrics statements="9" coveredstatements="9" conditionals="6" coveredconditionals="6" methods="2" coveredmethods="2"/>
+        <line num="2" count="12" type="cond" truecount="4" falsecount="0"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="5" count="8" type="stmt"/>
+        <line num="6" count="8" type="stmt"/>
+        <line num="7" count="8" type="stmt"/>
+        <line num="8" count="28" type="cond" truecount="2" falsecount="0"/>
+        <line num="9" count="11" type="stmt"/>
+        <line num="12" count="8" type="stmt"/>
+        <line num="13" count="8" type="stmt"/>
+      </file>
+      <file name="array-find-07-FindFirstEmail.js" path="D:\js_labs\practices-pdf\ArrayFind_practices\array-find-07-FindFirstEmail.js">
+        <metrics statements="15" coveredstatements="15" conditionals="16" coveredconditionals="16" methods="3" coveredmethods="3"/>
+        <line num="2" count="15" type="cond" truecount="4" falsecount="0"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="5" count="11" type="stmt"/>
+        <line num="6" count="11" type="stmt"/>
+        <line num="7" count="11" type="stmt"/>
+        <line num="8" count="15" type="cond" truecount="2" falsecount="0"/>
+        <line num="10" count="14" type="stmt"/>
+        <line num="11" count="14" type="stmt"/>
+        <line num="12" count="14" type="cond" truecount="4" falsecount="0"/>
+        <line num="13" count="7" type="stmt"/>
+        <line num="16" count="11" type="cond" truecount="2" falsecount="0"/>
+        <line num="17" count="6" type="stmt"/>
+        <line num="19" count="5" type="cond" truecount="4" falsecount="0"/>
+        <line num="20" count="3" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="js_labs.practices-pdf.Number_practices">
+      <metrics statements="81" coveredstatements="81" conditionals="74" coveredconditionals="74" methods="10" coveredmethods="10"/>
+      <file name="number-01-isIncreasing.js" path="D:\js_labs\practices-pdf\Number_practices\number-01-isIncreasing.js">
+        <metrics statements="8" coveredstatements="8" conditionals="7" coveredconditionals="7" methods="1" coveredmethods="1"/>
+        <line num="2" count="16" type="cond" truecount="5" falsecount="0"/>
+        <line num="3" count="8" type="stmt"/>
+        <line num="5" count="8" type="stmt"/>
+        <line num="6" count="8" type="stmt"/>
+        <line num="7" count="24" type="cond" truecount="2" falsecount="0"/>
+        <line num="8" count="4" type="stmt"/>
+        <line num="11" count="4" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+      </file>
+      <file name="number-02-DecreasingNumber.js" path="D:\js_labs\practices-pdf\Number_practices\number-02-DecreasingNumber.js">
+        <metrics statements="7" coveredstatements="7" conditionals="7" coveredconditionals="7" methods="1" coveredmethods="1"/>
+        <line num="2" count="13" type="cond" truecount="5" falsecount="0"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="5" count="8" type="stmt"/>
+        <line num="6" count="8" type="stmt"/>
+        <line num="7" count="20" type="cond" truecount="2" falsecount="0"/>
+        <line num="8" count="4" type="stmt"/>
+        <line num="11" count="4" type="stmt"/>
+      </file>
+      <file name="number-03-IncreasingNumberByDistance.js" path="D:\js_labs\practices-pdf\Number_practices\number-03-IncreasingNumberByDistance.js">
+        <metrics statements="8" coveredstatements="8" conditionals="9" coveredconditionals="9" methods="1" coveredmethods="1"/>
+        <line num="2" count="14" type="cond" truecount="2" falsecount="0"/>
+        <line num="9" count="7" type="stmt"/>
+        <line num="11" count="7" type="stmt"/>
+        <line num="12" count="7" type="stmt"/>
+        <line num="13" count="14" type="stmt"/>
+        <line num="14" count="14" type="cond" truecount="2" falsecount="0"/>
+        <line num="15" count="3" type="stmt"/>
+        <line num="18" count="4" type="stmt"/>
+      </file>
+      <file name="number-04-IsPrime.js" path="D:\js_labs\practices-pdf\Number_practices\number-04-IsPrime.js">
+        <metrics statements="6" coveredstatements="6" conditionals="7" coveredconditionals="7" methods="1" coveredmethods="1"/>
+        <line num="2" count="36" type="cond" truecount="5" falsecount="0"/>
+        <line num="3" count="6" type="stmt"/>
+        <line num="5" count="30" type="stmt"/>
+        <line num="6" count="1015" type="cond" truecount="2" falsecount="0"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="10" count="25" type="stmt"/>
+      </file>
+      <file name="number-05-IsPerfectSquare.js" path="D:\js_labs\practices-pdf\Number_practices\number-05-IsPerfectSquare.js">
+        <metrics statements="6" coveredstatements="6" conditionals="7" coveredconditionals="7" methods="1" coveredmethods="1"/>
+        <line num="2" count="16" type="cond" truecount="5" falsecount="0"/>
+        <line num="3" count="7" type="stmt"/>
+        <line num="5" count="9" type="stmt"/>
+        <line num="6" count="9" type="cond" truecount="2" falsecount="0"/>
+        <line num="7" count="4" type="stmt"/>
+        <line num="9" count="5" type="stmt"/>
+      </file>
+      <file name="number-06- IsPerfectNumber.js" path="D:\js_labs\practices-pdf\Number_practices\number-06- IsPerfectNumber.js">
+        <metrics statements="9" coveredstatements="9" conditionals="9" coveredconditionals="9" methods="1" coveredmethods="1"/>
+        <line num="2" count="22" type="cond" truecount="5" falsecount="0"/>
+        <line num="3" count="7" type="stmt"/>
+        <line num="5" count="15" type="stmt"/>
+        <line num="6" count="15" type="stmt"/>
+        <line num="7" count="1150" type="cond" truecount="2" falsecount="0"/>
+        <line num="8" count="54" type="stmt"/>
+        <line num="11" count="15" type="cond" truecount="2" falsecount="0"/>
+        <line num="12" count="3" type="stmt"/>
+        <line num="14" count="12" type="stmt"/>
+      </file>
+      <file name="number-07-IsSymetricNumber.js" path="D:\js_labs\practices-pdf\Number_practices\number-07-IsSymetricNumber.js">
+        <metrics statements="15" coveredstatements="15" conditionals="11" coveredconditionals="11" methods="1" coveredmethods="1"/>
+        <line num="2" count="24" type="cond" truecount="5" falsecount="0"/>
+        <line num="3" count="6" type="stmt"/>
+        <line num="5" count="18" type="stmt"/>
+        <line num="6" count="18" type="stmt"/>
+        <line num="7" count="18" type="stmt"/>
+        <line num="8" count="18" type="stmt"/>
+        <line num="9" count="46" type="cond" truecount="4" falsecount="0"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="12" count="45" type="stmt"/>
+        <line num="13" count="45" type="stmt"/>
+        <line num="14" count="45" type="stmt"/>
+        <line num="15" count="45" type="stmt"/>
+        <line num="17" count="17" type="cond" truecount="2" falsecount="0"/>
+        <line num="18" count="8" type="stmt"/>
+        <line num="20" count="9" type="stmt"/>
+      </file>
+      <file name="number-08-IsDivisibleBy10.js" path="D:\js_labs\practices-pdf\Number_practices\number-08-IsDivisibleBy10.js">
+        <metrics statements="9" coveredstatements="9" conditionals="7" coveredconditionals="7" methods="2" coveredmethods="2"/>
+        <line num="2" count="17" type="cond" truecount="5" falsecount="0"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="5" count="12" type="stmt"/>
+        <line num="6" count="12" type="stmt"/>
+        <line num="7" count="12" type="stmt"/>
+        <line num="8" count="44" type="stmt"/>
+        <line num="10" count="12" type="cond" truecount="2" falsecount="0"/>
+        <line num="11" count="4" type="stmt"/>
+        <line num="13" count="8" type="stmt"/>
+      </file>
+      <file name="number-09-HasTwoDigitsWithSum.js" path="D:\js_labs\practices-pdf\Number_practices\number-09-HasTwoDigitsWithSum.js">
+        <metrics statements="13" coveredstatements="13" conditionals="10" coveredconditionals="10" methods="1" coveredmethods="1"/>
+        <line num="2" count="21" type="cond" truecount="2" falsecount="0"/>
+        <line num="8" count="9" type="stmt"/>
+        <line num="10" count="12" type="stmt"/>
+        <line num="11" count="12" type="stmt"/>
+        <line num="12" count="20" type="stmt"/>
+        <line num="13" count="20" type="stmt"/>
+        <line num="14" count="20" type="cond" truecount="2" falsecount="0"/>
+        <line num="15" count="5" type="stmt"/>
+        <line num="18" count="7" type="stmt"/>
+        <line num="19" count="7" type="cond" truecount="2" falsecount="0"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="22" count="5" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="js_labs.practices-pdf.String_practices">
+      <metrics statements="66" coveredstatements="66" conditionals="54" coveredconditionals="53" methods="15" coveredmethods="15"/>
+      <file name="string-01-CountWords.js" path="D:\js_labs\practices-pdf\String_practices\string-01-CountWords.js">
+        <metrics statements="4" coveredstatements="4" conditionals="5" coveredconditionals="5" methods="2" coveredmethods="2"/>
+        <line num="2" count="9" type="cond" truecount="5" falsecount="0"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="5" count="16" type="stmt"/>
+        <line num="6" count="4" type="stmt"/>
+      </file>
+      <file name="string-02-StatisticsWords.js" path="D:\js_labs\practices-pdf\String_practices\string-02-StatisticsWords.js">
+        <metrics statements="9" coveredstatements="9" conditionals="6" coveredconditionals="6" methods="3" coveredmethods="3"/>
+        <line num="2" count="6" type="cond" truecount="4" falsecount="0"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="20" type="stmt"/>
+        <line num="9" count="10" type="cond" truecount="2" falsecount="0"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="12" count="8" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+      </file>
+      <file name="string-03-StatisticsCharacters.js" path="D:\js_labs\practices-pdf\String_practices\string-03-StatisticsCharacters.js">
+        <metrics statements="10" coveredstatements="10" conditionals="6" coveredconditionals="6" methods="2" coveredmethods="2"/>
+        <line num="2" count="7" type="cond" truecount="4" falsecount="0"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="7" count="19" type="stmt"/>
+        <line num="8" count="19" type="cond" truecount="2" falsecount="0"/>
+        <line num="9" count="8" type="stmt"/>
+        <line num="11" count="11" type="stmt"/>
+        <line num="14" count="3" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+      </file>
+      <file name="string-04-CountEmails.js" path="D:\js_labs\practices-pdf\String_practices\string-04-CountEmails.js">
+        <metrics statements="9" coveredstatements="9" conditionals="8" coveredconditionals="8" methods="3" coveredmethods="3"/>
+        <line num="2" count="10" type="cond" truecount="4" falsecount="0"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="5" count="6" type="stmt"/>
+        <line num="6" count="6" type="stmt"/>
+        <line num="8" count="38" type="stmt"/>
+        <line num="10" count="9" type="stmt"/>
+        <line num="11" count="9" type="cond" truecount="4" falsecount="0"/>
+        <line num="12" count="6" type="stmt"/>
+        <line num="16" count="6" type="stmt"/>
+      </file>
+      <file name="string-05-CountURLs.js" path="D:\js_labs\practices-pdf\String_practices\string-05-CountURLs.js">
+        <metrics statements="16" coveredstatements="16" conditionals="10" coveredconditionals="10" methods="3" coveredmethods="3"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="19" type="cond" truecount="4" falsecount="0"/>
+        <line num="4" count="4" type="stmt"/>
+        <line num="6" count="15" type="stmt"/>
+        <line num="7" count="15" type="stmt"/>
+        <line num="8" count="15" type="stmt"/>
+        <line num="9" count="22" type="stmt"/>
+        <line num="10" count="22" type="stmt"/>
+        <line num="11" count="22" type="cond" truecount="4" falsecount="0"/>
+        <line num="12" count="12" type="stmt"/>
+        <line num="15" count="15" type="stmt"/>
+        <line num="16" count="12" type="stmt"/>
+        <line num="17" count="12" type="stmt"/>
+        <line num="18" count="12" type="cond" truecount="2" falsecount="0"/>
+        <line num="19" count="8" type="stmt"/>
+        <line num="22" count="15" type="stmt"/>
+      </file>
+      <file name="string-06-GetDisplayedAddress.js" path="D:\js_labs\practices-pdf\String_practices\string-06-GetDisplayedAddress.js">
+        <metrics statements="8" coveredstatements="8" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
+        <line num="2" count="6" type="cond" truecount="4" falsecount="0"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="7" type="stmt"/>
+        <line num="9" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+      </file>
+      <file name="string-07-FillPath.js" path="D:\js_labs\practices-pdf\String_practices\string-07-FillPath.js">
+        <metrics statements="10" coveredstatements="10" conditionals="13" coveredconditionals="12" methods="1" coveredmethods="1"/>
+        <line num="2" count="8" type="cond" truecount="5" falsecount="0"/>
+        <line num="3" count="6" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="9" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="12" count="2" type="cond" truecount="4" falsecount="0"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="js_labs.src">
+      <metrics statements="6" coveredstatements="6" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
+      <file name="array.js" path="D:\js_labs\src\array.js">
+        <metrics statements="6" coveredstatements="6" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
+        <line num="25" count="12" type="cond" truecount="4" falsecount="0"/>
+        <line num="26" count="2" type="stmt"/>
+        <line num="28" count="10" type="stmt"/>
+        <line num="29" count="19" type="cond" truecount="2" falsecount="0"/>
+        <line num="30" count="5" type="stmt"/>
+        <line num="33" count="5" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
